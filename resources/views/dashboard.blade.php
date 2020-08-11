@@ -1,0 +1,2 @@
+echo "hghe";
+      exit;
